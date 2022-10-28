@@ -7,8 +7,9 @@ const technologies = [
   {id:'css', name:'CSS 3', icon:<SiCss3/>, desc:'Conhecimento básico', site:'https://developer.mozilla.org/pt-BR/docs/Web/Css'},
   {id:'js', name:'Javascript', icon:<SiJavascript/>, desc:'Conhecimento básico', site:'https://developer.mozilla.org/pt-BR/docs/Web/javascript'},
   {id:'node', name:'Node.js', icon:<SiNodedotjs/>, desc:'Conhecimento básico', site:'https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction'},
-  {id:'type', name:'Typescript', icon:<SiTypescript/>, desc:'Conhecimento básico', site:'https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript'},
+  {id:'type', name:'Typescript', icon:<SiTypescript/>, desc:'Em desenvolvimento', site:'https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript'},
   {id:'react', name:'React', icon:<SiReact/>, desc:'Conhecimento básico',site:'https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started'},
+  {id:'reactnative', name:'React Native',icon:<SiReact/>, desc:'Em desenvolvimento', site:'https://reactnative.dev/'},
   {id:'excel', name:'Excel', icon:<SiMicrosoftexcel/>, desc:'Conhecimento básico',site:'https://www.microsoft.com/pt-br/microsoft-365/p/excel-home-and-student/cfq7ttc0hlkr'},
 ]
 
